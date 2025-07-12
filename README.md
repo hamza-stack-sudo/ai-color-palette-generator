@@ -27,7 +27,7 @@ An AI-powered web app that extracts dominant colors from any uploaded image and 
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.PNG)
 
 ---
 
